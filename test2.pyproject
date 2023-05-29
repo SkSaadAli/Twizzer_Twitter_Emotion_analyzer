@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","main.py","qml/controls/Qt_Quick_App_button.qml"]
+}
