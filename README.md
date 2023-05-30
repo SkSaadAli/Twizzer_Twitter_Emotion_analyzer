@@ -63,7 +63,7 @@ python main.py
 
 The model trained using kaggle notebook that we collaborated in here are the links:  
 
-◉ Make sure to download this paste the [Model.tflite](https://www.kaggle.com/datasets/shaikhsaadali/lstm-model-pickle?select=model.tflite) into the root directory of the project  
+◉ Make sure to download and move the [Model.tflite](https://www.kaggle.com/datasets/shaikhsaadali/lstm-model-pickle?select=model.tflite) into the root directory of the project  
   
 ◉ [Model_training](https://www.kaggle.com/code/shaikhsaadali/final-major)  
   
