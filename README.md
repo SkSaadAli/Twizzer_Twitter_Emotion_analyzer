@@ -75,21 +75,31 @@ The model trained using kaggle notebook that we collaborated in here are the lin
 
 ### App Preview :
 
+</table>
+<table width="100%">
+<tr>
+<td width="100%">
+<br>
+<p align="center">
+  Application At First Glance
+</p>
+<img src="https://raw.github.com/SkSaadAli/Twizzer_Twitter_Emotion_analyzer/main/ScreenShots/first_page.PNG?sanitize=true" >  
+</td>
+</table>
+
+
+### Predicting Few Sentences Emotion:
 <table width="100%"> 
 <tr>
 <td width="50%">      
 &nbsp; 
 <br>
-<p align="center">
-  Application At First Glance
-</p>
-<img src="https://raw.github.com/SkSaadAli/Twizzer_Twitter_Emotion_analyzer/main/ScreenShots/first_page.PNG?sanitize=true" >
+
+<img src="https://raw.github.com/SkSaadAli/Twizzer_Twitter_Emotion_analyzer/main/ScreenShots/output_final.PNG?sanitize=true" >
 </td> 
 <td width="50%">
 <br>
-<p align="center">
-  Predicting Emotions
-</p>
+
 <img src="https://raw.github.com/SkSaadAli/Twizzer_Twitter_Emotion_analyzer/main/ScreenShots/output1.PNG?sanitize=true" >  
 </td>
 
